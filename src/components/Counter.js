@@ -26,4 +26,5 @@ export default ({ num }, { add, sub }) =>
         +
       </button>
     </section>
+    
   </div>;
