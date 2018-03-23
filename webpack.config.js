@@ -21,7 +21,7 @@ module.exports = function webpackStuff(env) {
     ],
     output: {
       filename: 'bundle.js',
-      path: path.resolve(__dirname, './'),
+      path: path.resolve(__dirname, './build'),
     },
     module: {
       rules: [{
