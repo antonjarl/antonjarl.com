@@ -6,7 +6,7 @@ import view from './components/Counter';
 const {
   add,
   sub,
-} = app(
+  } = app(
   state,
   actions,
   view,
